@@ -21,7 +21,7 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
-            <a href="#home" className="text-2xl font-bold text-blue-600"><img src="public/eSeniorLogo_trim.png" alt="eSenior Logo Image" className='inline w-8 h-10 mb-1' /><img src="src/images/minus.png" className="inline w-5 h-15 ml-0 pl-0" alt="Minus" />Senior</a>
+            <a href="#home" className="text-2xl font-bold text-blue-600"><img src="eSeniorLogo_trim.png" alt="eSenior Logo Image" className='inline w-8 h-10 mb-1' /><img src="src/images/minus.png" className="inline w-5 h-15 ml-0 pl-0" alt="Minus" />Senior</a>
           </div>
 
           {/* Desktop Navigation */}
