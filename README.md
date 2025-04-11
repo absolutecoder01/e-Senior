@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./esenior_logo.png" alt="eSenior Logo" width="300"/>
+  <img src="public/eSeniorLogo.png" alt="eSenior Logo" width="300"/>
 </p>
 
 # eSenior
